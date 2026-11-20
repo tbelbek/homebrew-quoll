@@ -1,6 +1,6 @@
 cask "quoll" do
   version "0.4.0"
-  sha256 ""
+  sha256 "184029f3fb623388fcfc8b60448bd5019c1e07170bd657144e0bb3b902ff880e"
 
   url "https://github.com/tbelbek/quoll/releases/download/v#{version}/Quoll-#{version}-macos-universal.zip"
   name "Quoll"
