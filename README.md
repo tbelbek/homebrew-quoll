@@ -4,6 +4,7 @@ Homebrew tap for [Quoll](https://github.com/tbelbek/quoll), instant filename
 search for macOS.
 
 ```bash
+brew trust tbelbek/quoll
 brew install --cask tbelbek/quoll/quoll
 ```
 
